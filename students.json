@@ -9,10 +9,10 @@
   },{
     "prenom": "Clotile",
     "nom": "Long",
-    "promo": "rien",
+    "promo": 2025,
     "github_page": "https://longclotilde00-del.github.io/",
-    "matiere_preferee": "",
-    "emoji": "<3"
+    "matiere_preferee": "GIT",
+    "emoji": "<🍓"
   }
 
 ]
